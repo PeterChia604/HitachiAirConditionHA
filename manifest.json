@@ -7,7 +7,6 @@
   "after_dependencies": ["http"],
   "codeowners": [],
   "requirements": [],
-  "quality_scale": "platinum",
   "iot_class": "cloud_polling",
   "config_flow": true
 }
